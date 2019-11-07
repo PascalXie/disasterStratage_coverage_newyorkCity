@@ -1,0 +1,2 @@
+RobotSize 200
+UAV_CommunicationRange_metre 600 
